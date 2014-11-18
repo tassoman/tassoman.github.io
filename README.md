@@ -1,4 +1,4 @@
 tassoman.github.io
 ==================
 
-ghpages playground
+gh-pages playground
